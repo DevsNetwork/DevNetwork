@@ -1,2 +1,2 @@
-# DFN
-DFN MC:PE Server Software
+# DevNetwork
+DevNetwork MC:PE Server Software
